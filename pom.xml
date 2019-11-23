@@ -54,6 +54,20 @@
         <spotify-docker.version>1.2.0</spotify-docker.version>
         <docker.image.prefix>explore</docker.image.prefix>
     </properties>
+        <properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<springframework.version>4.3.1.RELEASE</springframework.version>
+		<jackson.version>2.7.5</jackson.version>
+		
+		
+		
+<!-- Mandatory properties -->
+
+<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+<!-- Organization and project keys are displayed in the right sidebar of the project homepage -->
+<sonar.organization>vicky9685-github</sonar.organization>
+<sonar.login>a75980be14bdcd55f42123e7a74b6c5720ce7651</sonar.login> 
+	</properties>
 
     <dependencies>
         <dependency>
