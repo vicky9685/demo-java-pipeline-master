@@ -1,6 +1,6 @@
 # explore-demos-java-pipeline
 
-An exemplar Java + Maven + Spring Boot project with Jenkins pipeline using Maven lifecycle and Docker for packaging and running integration tests
+An exemplar Java + Maven + Spring Boot project with Jenkins pipeline using Maven lifecycle and Docker for packaging and running integration tests.
 
 This configuration includes:
 
