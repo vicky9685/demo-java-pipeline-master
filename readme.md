@@ -5,7 +5,7 @@ An exemplar Java + Maven + Spring Boot project with Jenkins pipeline using Maven
 This configuration includes:
 
 - Packaging as a Docker image.
-- Pipeline as code with Jenkins.
+- Pipeline as code with Jenkins
 - Docker image lifecycle with Spotify Maven plug-in.
 - Surefire configured to gather test coverage per test with SonarQube and JaCoCo.
 - Mutation tests with Pitest.
