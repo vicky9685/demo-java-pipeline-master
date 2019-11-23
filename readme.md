@@ -2,7 +2,7 @@
 
 An exemplar Java + Maven + Spring Boot project with Jenkins pipeline using Maven lifecycle and Docker for packaging and running integration tests
 
-This exemplar configuration includes:
+This configuration includes:
 
 - Packaging as a Docker image.
 - Pipeline as code with Jenkins.
